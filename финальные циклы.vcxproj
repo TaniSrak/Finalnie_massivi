@@ -24,6 +24,7 @@
     <ProjectGuid>{a62b6404-b2cb-4588-b2e1-212f731d8ddf}</ProjectGuid>
     <RootNamespace>финальные_циклы</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>финальные массивы</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
